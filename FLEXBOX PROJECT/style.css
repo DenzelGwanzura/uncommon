@@ -1,0 +1,352 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.hero{
+    background-image: url(./Images/pencils\ Background.jpg);
+    width: 100%;
+    height: 80vh;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    line-height: 70px;
+    flex-direction: column;
+
+
+    
+}
+.hero h1{
+    font-weight: bold;
+    font-size: 80px;
+    font-family: sans-serif;
+
+
+
+    
+
+}
+.hero p{
+    font-size: 27px;
+    font-family: sans-serif;
+    font-weight: 300;
+
+    
+    
+}
+button{
+    background-color: #0080a3;
+    color: white;
+    height: 60px;
+    width: 130px;
+    border: none;
+    border-radius: 4px;
+    font-size: 15px;
+    font-family: sans-serif;
+    font-weight: bold;
+
+}
+.offer{
+    width: 100%;
+    height: 40vh;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    line-height: 35px;
+    gap: 25px;
+
+}
+.offer h1{
+    font-size: 35px;
+    font-family: sans-serif;
+}
+.offer p{
+    font-size: 23px;
+    font-family: sans-serif;
+    
+}
+.offer button{
+    background-color: black;
+}
+.services{
+    width: 100%;
+    height: 60vh;
+    background-color: #0080a3;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    line-height: 40px;
+    flex-direction: column;
+    
+
+    
+}
+
+.services div{
+    margin: 10px;
+    color: white;
+    line-height: 30px;
+    font-family: sans-serif;
+   
+}
+.down{
+
+    background-image: url(./Images/pic2.jpg);
+    width: 100%;
+    height: 90vh;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    line-height: 70px;
+    flex-direction: column;
+    gap: 20px;
+
+
+
+}
+.down h1{
+    font-size: 60px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+.port{
+
+    width: 100%;
+    height: 110vh;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    flex-direction: column;
+    flex-basis: 800px;
+   
+
+}
+.port img{
+    width: 500px;
+    height: 350px;
+    display: flex;
+    flex-direction: row;
+   justify-items: flex-end;
+   align-content: center;
+ 
+
+    
+}
+.butt{
+
+    width: 100%;
+    height: 40vh;
+    background-color: #0080a3;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    line-height: 40px;
+    flex-direction: column;
+    gap: 20px;
+
+    
+
+}
+
+.button2{
+    background-color: white;
+    color: black;
+    height: 60px;
+    width: 130px;
+    border: none;
+    border-radius: 4px;
+    font-size: 15px;
+    font-family: sans-serif;
+    font-weight: bold;
+    
+
+}
+
+.button3{
+    background-color: black;
+    color: white;
+    height: 60px;
+    width: 130px;
+    border: none;
+    border-radius: 4px;
+    font-size: 15px;
+    font-family: sans-serif;
+    font-weight: bold;
+
+
+}
+.me{
+    padding: 20px;
+    gap: 20px;
+   
+}
+.butt h1{
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: 35px;
+}
+.map{
+
+
+    background-image: url(./dzikwa\ map.png);
+    width: 100%;
+    height: 80vh;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    line-height: 70px;
+    flex-direction: column;
+
+
+
+}
+.footer{
+width: 100%;
+height: 30vh;
+display: flex;
+justify-content: center;
+flex-direction: row;
+
+
+
+}.rect1{
+    width: 500px;
+    height: 350px;
+    background-image: url(./Images/stationary.jpg);
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.rect1{
+    width: 500px;
+    height: 350px;
+    background-image: url(./Images/joanna-kosinska-szFUQoyvrxM-unsplash.jpg);
+    justify-content: center;
+    align-items: center;
+
+
+}
+.imga{
+    display: flex;
+    flex-direction: row;
+}
+.buton{
+    display: flex;
+    flex-direction: row;
+    gap: 35px;
+}
+.services h1{
+    color: white;
+    font-family: sans-serif;
+    font-size: 30px;
+}
+.services h5{
+    color: rgb(223, 164,0);
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+}
+.container{
+columns: 2;
+gap: 0px;
+}
+.project1{
+    background-image: url(./Images/stationary.jpg);
+    width: 500px;
+    height: 350px;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+
+}
+.project2{
+    background-image: url(./Images/joanna-kosinska-szFUQoyvrxM-unsplash.jpg);
+    width: 500px;
+    height: 350px;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+
+}
+.project3{
+    background-image: url(./Images/joanna-kosinska-BteMcldTQVo-unsplash.jpg);
+    width: 500px;
+    height: 350px;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+
+}
+.project4{
+    background-image: url(./Images/pic2.jpg);
+    width: 500px;
+    height: 350px;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+
+
+
+}
+.port p{
+    font-size: 20px;
+    font-family: sans-serif;
+
+}
+.port h5{
+    font-family: sans-serif;
+}
+.butt h1{
+    color: white;
+}
+.folioo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 10px;
+}
+.folioo h1{
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: 60px;
+}
+.folioo h3{
+    font-weight: bold;
+    font-family: sans-serif;
+    color: rgb(223, 164,0);
+}
